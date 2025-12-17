@@ -1,0 +1,16 @@
+{
+  "proxies": {
+    "http://brd-customer-hl_69e4a500-zone-residential_proxy1-country-ca:eylref00n3mb@brd.superproxy.io:33335": {
+      "success": 2,
+      "failures": 17,
+      "last_used": "2025-12-05T02:37:08.923980"
+    },
+    "http://brd-customer-hl_69e4a500-zone-residential_proxy1-country-ca:eylref00n3mb@brd.superproxy.io:22225": {
+      "success": 213,
+      "failures": 41,
+      "last_used": "2025-12-13T01:34:34.030430"
+    }
+  },
+  "total_requests": 8,
+  "failed_requests": 58
+}
